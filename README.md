@@ -5,7 +5,7 @@ ADD IN BANCH TEST-MODIFY 1
 add in banch test-modify2
 add in banch test-modify2-1
 add in banch2 
-
+just test IN MASTER
 
 add in banch test-modify11111
 
